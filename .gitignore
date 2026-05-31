@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.pyc
+*.db
+.env
+node_modules/
+dist/
+*.egg-info/
+.pytest_cache/
+agentforge.db
+.env.local
